@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local config
+*.env
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
