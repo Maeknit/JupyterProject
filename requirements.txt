@@ -1,3 +1,6 @@
+razdel
+nltk
+beautifulsoup4
 sqlalchemy
 pandas
 scikit-learn
